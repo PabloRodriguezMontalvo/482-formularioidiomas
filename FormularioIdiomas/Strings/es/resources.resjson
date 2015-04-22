@@ -1,0 +1,14 @@
+﻿// For details on localizing a Windows app, see: http://go.microsoft.com/fwlink/?LinkId=212836
+
+{
+    "titulo"              : "Ejercicio Localizacion",
+    "introduccion"     : "Esto va de internacionalizacion",
+	"email" : "E-Mail",
+	"condiciones":"Acepto las condiciones",
+	"fecha_nacimiento":"Fecha de nacimiento",
+	"nombre":"Nombre",
+	"apellidos":"Apellidos",
+	"error_condiciones":"Debes aceptar las condiciones",
+	"error_fecha":"Ers menos de 18 años",
+	"enviar":"Procesar"
+}
